@@ -1,4 +1,4 @@
-#####- 👋 Hi, I’m Ankit Banerjee.
+- 👋 Hi, I’m Ankit Banerjee.
 - 👀 I’m interested in Web Development, 3D Designing, Python, Competetive Programming with cpp.
 - 🌱 I’m currently a Mechanical Engineering student of KGEC.
 - 📫 Reach me at ankitbanerjee0211@gmail.com.
