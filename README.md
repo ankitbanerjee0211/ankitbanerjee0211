@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit Banerjee.
-- 👀 I’m interested in Web Development, 3D Designing, Python, Competetive Programming with cpp.
+- 👀 I’m interested in Web Development, 3D Designing, Python, Programming with Java.
 - 🌱 I’m currently a Mechanical Engineering student of KGEC.
 - 📫 Reach me at ankitbanerjee0211@gmail.com.
 - 🏠 Currently residing at Kolkata, West Bengal, India.
